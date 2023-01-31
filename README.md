@@ -5,6 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=guanlu-up&label=Profile%20views&color=0e75b6&style=flat" alt="guanlu-up" /> 
 </p>
 
+- 📫 Reach me at : **guanlu.up@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
