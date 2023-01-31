@@ -33,13 +33,5 @@
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guanlu-up&show_icons=true&locale=en&layout=compact" alt="guanlu-up" />
 </p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=guanlu-up&show_icons=true&locale=en" alt="guanlu-up" />
 </p>
